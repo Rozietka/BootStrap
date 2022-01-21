@@ -1,0 +1,9 @@
+* {
+     margin: 0;
+}
+.container {
+     height: 100vh;
+}
+.no-gutter {
+     --bs-gutter-x: 0;
+}  
